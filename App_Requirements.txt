@@ -1,3 +1,9 @@
 
 java version : 11
 JDK used : 11.0.11
+
+Bugs To fix :
+  - increase app credibility
+
+Feature to add :
+  - whenever a case is created automate sending an email to all email adresses in Signature table (who signed at least a case before) email should contain an easy link to just         validate signature for that new case such as (ad my name to this case link) 
