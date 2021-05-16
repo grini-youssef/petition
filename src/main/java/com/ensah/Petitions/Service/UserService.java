@@ -4,7 +4,7 @@ import com.ensah.Petitions.Entity.User;
 
 /**
  * User Service Interface
- * user is either a visitor or a sector.
+ * user is created only for admins
  *
  */
 public interface UserService {
